@@ -9,10 +9,7 @@ public class FunRestController {
     @GetMapping("/")
     public String sayHello(){
 
-        return "Hello World this is Spring";
+        return "Hello World this is Spring thos is test";
 
     }
-//dhur bal
-//gandur
-
 }
